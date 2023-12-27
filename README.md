@@ -31,8 +31,8 @@ $ Luancher.bat
 Linux : 
 
 ```sh
-cd ZeroPT
-./Luancher.sh
+$ cd ZeroPT
+$ ./Luancher.sh
 ```
     
 ## 🔗 Links
